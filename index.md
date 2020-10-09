@@ -1,4 +1,2 @@
-# <Chris kyle>
-## <A legend>
-
-test
+# Chris kyle
+## A legend
